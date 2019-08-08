@@ -1,0 +1,22 @@
+{
+  "name": "common-utils-lilong",
+  "version": "1.0.0",
+  "description": "这是一个测试",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suichukewan/common-utils-lilong.git"
+  },
+  "keywords": [
+    "sdf"
+  ],
+  "author": "lilong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suichukewan/common-utils-lilong/issues"
+  },
+  "homepage": "https://github.com/suichukewan/common-utils-lilong#readme"
+}
